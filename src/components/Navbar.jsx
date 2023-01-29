@@ -80,7 +80,7 @@ const Navbar = () => {
         />
         <NavButton
           title={"Notificaton"}
-          customFun={() => handleClick("notificaton")}
+          customFun={() => handleClick("notification")}
           color="blue"
           icon={<RiNotification3Line />}
         />
@@ -107,7 +107,7 @@ const Navbar = () => {
         {isClicked.chat && <Chat />}
         {isClicked.cart && <Cart />}
         {isClicked.notification && <Notification />}
-        {isClicked.userProfile && <userProfile />}
+        {isClicked.userProfile && <UserProfile />}
       </div>
     </div>
   );
