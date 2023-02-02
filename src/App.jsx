@@ -34,9 +34,15 @@ import {
 import { useStateContext } from "./contexts/ContextProvider";
 
 const App = () => {
-  const { activeMenu, themeSettings, setThemeSettings } = useStateContext();
+  const {
+    activeMenu,
+    themeSettings,
+    setThemeSettings,
+    currentColor,
+    currentMode,
+  } = useStateContext();
   return (
-    <div>
+    <div className={currentMode === "Dark" ? "dark" : ""}>
       <BrowserRouter>
         <div className="flex relative dark:bg-main-dark-bg">
           <div className="fixed right-4 bottom-4" style={{ zIndex: "1000" }}>
@@ -44,7 +50,7 @@ const App = () => {
               <button
                 type="button"
                 onClick={() => setThemeSettings(true)}
-                style={{ background: "red" }}
+                style={{ background: currentColor }}
                 className="text-3xl rounded-full p-3 hover:drop-shadow-xl hover:bg-light-gray text-white"
               >
                 <FiSettings />
@@ -61,7 +67,7 @@ const App = () => {
             </div>
           )}
           <div
-            className={`dark:bg-main-bg bg-main-bg min-h-screen w-full ${
+            className={`dark:bg-main-dark-bg bg-main-bg min-h-screen w-full ${
               activeMenu ? "md:ml-72" : "flex-2"
             }`}
           >
@@ -81,7 +87,7 @@ const App = () => {
                 <Route path="/editor" element={<Editor />} />
                 <Route path="/calender" element={<Calender />} />
                 <Route path="color-picker" element={<ColorPicker />} />
-                <Route path="/line" element={<LineChart />} />
+                <Route path="/line" element={<Line />} />
                 <Route path="/area" element={<Area />} />
                 <Route path="/bar" element={<Bar />} />
                 <Route path="/pie" element={<PieChart />} />
