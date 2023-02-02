@@ -15,7 +15,7 @@ import {
   LinePrimaryYAxis,
   LinePrimaryXAxis,
 } from "../../data/dummy";
-const LIneChart = () => {
+const LineChart = () => {
   const { currentMode } = useStateContext();
   return (
     <ChartComponent
@@ -37,4 +37,4 @@ const LIneChart = () => {
   );
 };
 
-export default LIneChart;
+export default LineChart;
