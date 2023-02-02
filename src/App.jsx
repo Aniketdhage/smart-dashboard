@@ -1,17 +1,10 @@
-import React, { useEffect } from "react";
+import React from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { FiSettings } from "react-icons/fi";
 import { TooltipComponent } from "@syncfusion/ej2-react-popups";
 import "./App.css";
 
-import {
-  Navbar,
-  Sidebar,
-  ThemeSettings,
-  Footer,
-  LineChart,
-  PieChart,
-} from "./components";
+import { Navbar, Sidebar, ThemeSettings, PieChart } from "./components";
 import {
   Orders,
   Calender,
@@ -26,7 +19,6 @@ import {
   ColorMapping,
   Financial,
   Line,
-  Pie,
   Pyramid,
   Stacked,
 } from "./pages";

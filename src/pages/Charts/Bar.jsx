@@ -12,7 +12,6 @@ import {
 } from "@syncfusion/ej2-react-charts";
 import { useStateContext } from "../../contexts/ContextProvider";
 import {
-  barChartData,
   barCustomSeries,
   barPrimaryYAxis,
   barPrimaryXAxis,
