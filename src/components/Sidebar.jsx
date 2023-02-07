@@ -29,7 +29,7 @@ const Sidebar = () => {
             <Link
               to={"/"}
               onClick={handleSidebarClose}
-              className="h-[60px] items-center gap-3 my-4 ml-3 flex text-xl font-extrabold tracking-tight dark:text-white text-slate-900"
+              className="h-[60px] w-[250px] items-center gap-3 my-4 ml-3 flex text-xl font-extrabold tracking-tight dark:text-white text-slate-900"
             >
               {/* <SiShopware /> 
               <span>Smart Dashboard</span> */}
