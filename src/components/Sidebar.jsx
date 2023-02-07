@@ -1,6 +1,7 @@
 import React from "react";
 import { Link, NavLink } from "react-router-dom";
-import { SiShopware } from "react-icons/si";
+// import { SiShopware } from "react-icons/si";
+import logo from "./../data/Aniket_Dhage-logo.png";
 import { MdOutlineCancel } from "react-icons/md";
 import { TooltipComponent } from "@syncfusion/ej2-react-popups";
 import { links } from "./../data/dummy";
@@ -28,14 +29,16 @@ const Sidebar = () => {
             <Link
               to={"/"}
               onClick={handleSidebarClose}
-              className="items-center gap-3 mt-4 ml-3 flex text-xl font-extrabold tracking-tight dark:text-white text-slate-900"
+              className="h-[60px] items-center gap-3 my-4 ml-3 flex text-xl font-extrabold tracking-tight dark:text-white text-slate-900"
             >
-              <SiShopware /> <span>Smart Dashboard</span>
+              {/* <SiShopware /> 
+              <span>Smart Dashboard</span> */}
+              <img src={logo} alt="" />
             </Link>
             <TooltipComponent content="Menu" position="BottomCenter">
               <button
                 type="button"
-                className="text-xl rounded-full mt-4 block  "
+                className="text-xl mb-[30%] lg:hidden rounded-full mt-4 block  "
                 onClick={() => setActiveMenu((prev) => !prev)}
               >
                 <MdOutlineCancel />

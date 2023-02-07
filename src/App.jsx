@@ -18,7 +18,7 @@ import {
   Bar,
   ColorMapping,
   Financial,
-  // Line,
+  Line,
   Pyramid,
   Stacked,
 } from "./pages";
@@ -79,7 +79,7 @@ const App = () => {
                 <Route path="/editor" element={<Editor />} />
                 <Route path="/calender" element={<Calender />} />
                 <Route path="color-picker" element={<ColorPicker />} />
-                {/* <Route path="/line" element={<Line />} /> */}
+                <Route path="/line" element={<Line />} />
                 <Route path="/area" element={<Area />} />
                 <Route path="/bar" element={<Bar />} />
                 <Route path="/pie" element={<PieChart />} />

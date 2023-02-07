@@ -9,7 +9,7 @@ const Ecommerce = () => {
   return (
     <div className="mt-12">
       <div className="flex flex-wrap lg-flex-nowrap justify-center">
-        <div className="bg-white banner dark:text-gray-200 dark:bg-secondary-dark-bg h-44 rounded-xl w-full lg:w-full p-8 pt-9 m-3 bg-hero-pattern bg-no-repeat bg-cover bg-center">
+        <div className=" w-[77%] bg-white banner dark:text-gray-200 dark:bg-secondary-dark-bg h-44 rounded-xl  p-8 pt-9 m-3 bg-hero-pattern bg-no-repeat bg-cover bg-center">
           <div className="flex justify-between items-center">
             <div>
               <p className="text-gray-400 font-bold">Earnings</p>
