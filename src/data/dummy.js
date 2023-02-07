@@ -974,8 +974,8 @@ export const customersData = [
   {
     CustomerID: 1003,
 
-    CustomerName: "Andrew McDownland",
-    CustomerEmail: "andrew@gmail.com",
+    CustomerName: "ananda McDownland",
+    CustomerEmail: "ananda@gmail.com",
     ProjectName: "Real Homes WP Theme",
     Status: "Pending",
     CustomerImage: avatar4,
@@ -987,7 +987,7 @@ export const customersData = [
   {
     CustomerID: 1004,
 
-    CustomerName: "Christopher Jamil",
+    CustomerName: "Javid Jamil",
     CustomerEmail: "jamil@gmail.com",
     ProjectName: "MedicalPro WP Theme",
     Status: "Completed",
@@ -1000,8 +1000,8 @@ export const customersData = [
   {
     CustomerID: 1005,
 
-    CustomerName: "Michael",
-    CustomerEmail: "michael@gmail.com",
+    CustomerName: "Madhav",
+    CustomerEmail: "Madhav@gmail.com",
     ProjectName: "Weekly WP Theme",
     Status: "Cancel",
     CustomerImage: avatar2,
@@ -1039,8 +1039,8 @@ export const customersData = [
   {
     CustomerID: 1008,
 
-    CustomerName: "Andrew McDownland",
-    CustomerEmail: "andrew@gmail.com",
+    CustomerName: "ananda McDownland",
+    CustomerEmail: "ananda@gmail.com",
     ProjectName: "Real Homes WP Theme",
     Status: "Pending",
     CustomerImage: avatar4,
@@ -1052,7 +1052,7 @@ export const customersData = [
   {
     CustomerID: 1009,
 
-    CustomerName: "Christopher Jamil",
+    CustomerName: "Javid Jamil",
     CustomerEmail: "jamil@gmail.com",
     ProjectName: "MedicalPro WP Theme",
     Status: "Completed",
@@ -1065,8 +1065,8 @@ export const customersData = [
   {
     CustomerID: 1010,
 
-    CustomerName: "Michael",
-    CustomerEmail: "michael@gmail.com",
+    CustomerName: "Madhav",
+    CustomerEmail: "Madhav@gmail.com",
     ProjectName: "Weekly WP Theme",
     Status: "Cancel",
     CustomerImage: avatar2,
@@ -1104,8 +1104,8 @@ export const customersData = [
   {
     CustomerID: 1013,
 
-    CustomerName: "Andrew McDownland",
-    CustomerEmail: "andrew@gmail.com",
+    CustomerName: "ananda McDownland",
+    CustomerEmail: "ananda@gmail.com",
     ProjectName: "Real Homes WP Theme",
     Status: "Pending",
     CustomerImage: avatar4,
@@ -1117,7 +1117,7 @@ export const customersData = [
   {
     CustomerID: 1014,
 
-    CustomerName: "Christopher Jamil",
+    CustomerName: "Javid Jamil",
     CustomerEmail: "jamil@gmail.com",
     ProjectName: "MedicalPro WP Theme",
     Status: "Completed",
@@ -1130,8 +1130,8 @@ export const customersData = [
   {
     CustomerID: 1015,
 
-    CustomerName: "Michael",
-    CustomerEmail: "michael@gmail.com",
+    CustomerName: "Madhav",
+    CustomerEmail: "Madhav@gmail.com",
     ProjectName: "Weekly WP Theme",
     Status: "Cancel",
     CustomerImage: avatar2,
@@ -1169,8 +1169,8 @@ export const customersData = [
   {
     CustomerID: 1018,
 
-    CustomerName: "Andrew McDownland",
-    CustomerEmail: "andrew@gmail.com",
+    CustomerName: "ananda McDownland",
+    CustomerEmail: "ananda@gmail.com",
     ProjectName: "Real Homes WP Theme",
     Status: "Pending",
     CustomerImage: avatar4,
@@ -1182,7 +1182,7 @@ export const customersData = [
   {
     CustomerID: 1019,
 
-    CustomerName: "Christopher Jamil",
+    CustomerName: "Javid Jamil",
     CustomerEmail: "jamil@gmail.com",
     ProjectName: "MedicalPro WP Theme",
     Status: "Completed",
@@ -1195,8 +1195,8 @@ export const customersData = [
   {
     CustomerID: 1020,
 
-    CustomerName: "Michael",
-    CustomerEmail: "michael@gmail.com",
+    CustomerName: "Madhav",
+    CustomerEmail: "Madhav@gmail.com",
     ProjectName: "Weekly WP Theme",
     Status: "Cancel",
     CustomerImage: avatar2,
@@ -1234,8 +1234,8 @@ export const customersData = [
   {
     CustomerID: 1023,
 
-    CustomerName: "Andrew McDownland",
-    CustomerEmail: "andrew@gmail.com",
+    CustomerName: "ananda McDownland",
+    CustomerEmail: "ananda@gmail.com",
     ProjectName: "Real Homes WP Theme",
     Status: "Pending",
     CustomerImage: avatar4,
@@ -1247,7 +1247,7 @@ export const customersData = [
   {
     CustomerID: 1024,
 
-    CustomerName: "Christopher Jamil",
+    CustomerName: "Javid Jamil",
     CustomerEmail: "jamil@gmail.com",
     ProjectName: "MedicalPro WP Theme",
     Status: "Completed",
@@ -1260,8 +1260,8 @@ export const customersData = [
   {
     CustomerID: 1025,
 
-    CustomerName: "Michael",
-    CustomerEmail: "michael@gmail.com",
+    CustomerName: "Madhav",
+    CustomerEmail: "Madhav@gmail.com",
     ProjectName: "Weekly WP Theme",
     Status: "Cancel",
     CustomerImage: avatar2,
@@ -1299,8 +1299,8 @@ export const customersData = [
   {
     CustomerID: 1028,
 
-    CustomerName: "Andrew McDownland",
-    CustomerEmail: "andrew@gmail.com",
+    CustomerName: "ananda McDownland",
+    CustomerEmail: "ananda@gmail.com",
     ProjectName: "Real Homes WP Theme",
     Status: "Pending",
     CustomerImage: avatar4,
@@ -1312,7 +1312,7 @@ export const customersData = [
   {
     CustomerID: 1029,
 
-    CustomerName: "Christopher Jamil",
+    CustomerName: "Javid Jamil",
     CustomerEmail: "jamil@gmail.com",
     ProjectName: "MedicalPro WP Theme",
     Status: "Completed",
@@ -1325,8 +1325,8 @@ export const customersData = [
   {
     CustomerID: 1030,
 
-    CustomerName: "Michael",
-    CustomerEmail: "michael@gmail.com",
+    CustomerName: "Madhav",
+    CustomerEmail: "Madhav@gmail.com",
     ProjectName: "Weekly WP Theme",
     Status: "Cancel",
     CustomerImage: avatar2,
@@ -1364,8 +1364,8 @@ export const customersData = [
   {
     CustomerID: 1033,
 
-    CustomerName: "Andrew McDownland",
-    CustomerEmail: "andrew@gmail.com",
+    CustomerName: "ananda McDownland",
+    CustomerEmail: "ananda@gmail.com",
     ProjectName: "Real Homes WP Theme",
     Status: "Pending",
     CustomerImage: avatar4,
@@ -1377,7 +1377,7 @@ export const customersData = [
   {
     CustomerID: 1034,
 
-    CustomerName: "Christopher Jamil",
+    CustomerName: "Javid Jamil",
     CustomerEmail: "jamil@gmail.com",
     ProjectName: "MedicalPro WP Theme",
     Status: "Completed",
@@ -1390,8 +1390,8 @@ export const customersData = [
   {
     CustomerID: 1035,
 
-    CustomerName: "Michael",
-    CustomerEmail: "michael@gmail.com",
+    CustomerName: "Madhav",
+    CustomerEmail: "Madhav@gmail.com",
     ProjectName: "Weekly WP Theme",
     Status: "Cancel",
     CustomerImage: avatar2,
@@ -1429,8 +1429,8 @@ export const customersData = [
   {
     CustomerID: 1038,
 
-    CustomerName: "Andrew McDownland",
-    CustomerEmail: "andrew@gmail.com",
+    CustomerName: "ananda McDownland",
+    CustomerEmail: "ananda@gmail.com",
     ProjectName: "Real Homes WP Theme",
     Status: "Pending",
     CustomerImage: avatar4,
@@ -1441,7 +1441,7 @@ export const customersData = [
   },
   {
     CustomerID: 1039,
-    CustomerName: "Christopher Jamil",
+    CustomerName: "Javid Jamil",
     CustomerEmail: "jamil@gmail.com",
     ProjectName: "MedicalPro WP Theme",
     Status: "Completed",
@@ -1453,8 +1453,8 @@ export const customersData = [
   },
   {
     CustomerID: 1040,
-    CustomerName: "Michael",
-    CustomerEmail: "michael@gmail.com",
+    CustomerName: "Madhav",
+    CustomerEmail: "Madhav@gmail.com",
     ProjectName: "Weekly WP Theme",
     Status: "Cancel",
     CustomerImage: avatar2,
@@ -3121,10 +3121,10 @@ export const kanbanData = [
     Priority: "Normal",
     Tags: "Improvement",
     Estimate: 6,
-    Assignee: "Andrew Fuller",
+    Assignee: "ananda Fuller",
     RankId: 1,
     Color: "#673AB8",
-    ClassName: "e-improvement, e-normal, e-andrew-fuller",
+    ClassName: "e-improvement, e-normal, e-ananda-fuller",
   },
   {
     Id: "Task 3",
@@ -3275,10 +3275,10 @@ export const kanbanData = [
     Priority: "Critical",
     Tags: "Grid,Sql",
     Estimate: 2,
-    Assignee: "Andrew Fuller",
+    Assignee: "ananda Fuller",
     RankId: 4,
     Color: "#02897B",
-    ClassName: "e-story, e-release, e-andrew-fuller",
+    ClassName: "e-story, e-release, e-ananda-fuller",
   },
   {
     Id: "Task 14",
@@ -3373,10 +3373,10 @@ export const kanbanData = [
     Priority: "Low",
     Tags: "Editing",
     Estimate: 3.5,
-    Assignee: "Andrew Fuller",
+    Assignee: "ananda Fuller",
     RankId: 5,
     Color: "#673AB8",
-    ClassName: "e-improvement, e-low, e-andrew-fuller",
+    ClassName: "e-improvement, e-low, e-ananda-fuller",
   },
   {
     Id: "Task 21",
