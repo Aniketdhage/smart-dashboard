@@ -19,7 +19,6 @@ const LineChart = () => {
   const { currentMode } = useStateContext();
   return (
     <ChartComponent
-      // width="420px"
       id="line_chart"
       primaryXAxis={LinePrimaryXAxis}
       primaryYAxis={LinePrimaryYAxis}
